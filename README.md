@@ -1,7 +1,7 @@
 ### :v: Olá! tudo bem?
 ## Bem vindo ao meu perfil GitHub 
 
-:computer: essas são as tecnologias e ferramentas que eu tenho conhecimento:
+:computer: Essas são as tecnologias e ferramentas que eu tenho conhecimento:
 
 ![icon](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![icon](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
