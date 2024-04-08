@@ -31,7 +31,7 @@
 <div align="left">
   <a href="https://github.com/leonardoSant2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoSant2&count_private=true&show_icons=true&theme=vision-friendly-dark&icon_color=567996"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoSant2&hide_title=true&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" w src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoSant2&hide_title=true&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 :sparkles: Fique à vontade para entrar em contato:
