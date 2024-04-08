@@ -1,7 +1,15 @@
 ### :v: Olá! tudo bem?
 ## Bem vindo ao meu perfil GitHub 
 
-:computer: Essas são as tecnologias e ferramentas que eu tenho conhecimento:
+👋 Eu me chamo Leonardo e tenho 32 anos. Atuo como técnico de informática fazendo manutenção de computadores e impressoras.
+
+🌎 Brasileiro, natural do Rio de Janeiro. Atualmente moro no interior de Pernambuco.
+
+💻 Atualmente estou me dedicando em aprender tudo que envolve JavaScript como Node.Js, Vue, React, Angular, Express e outras técnologias com o propósito de me tornar um programador Full Stack.
+
+👀 Tenho curiosidade e interesse em tudo que envolve técnologia e mistérios da humindade.
+
+:computer: Essas são as tecnologias e ferramentas que eu tenho conhecimento no momento:
 
 ![icon](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![icon](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -19,12 +27,14 @@
 ![icon](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![icon](https://img.shields.io/badge/php%20-AEB2D5?style=for-the-badge&logo=php&logoColor=white)
 
+<h2> GitHub Stats </h2>
+<div align="left">
+  <a href="https://github.com/leonardoSant2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoSant2&count_private=true&show_icons=true&theme=vision-friendly-dark&icon_color=567996"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoSant2&hide_title=true&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+</div>
 
-
-
-![tati's github stats](https://github-readme-stats.vercel.app/api?username=leonardoSant2&count_private=true&show_icons=true&theme=calm)
-
-:sparkles: fique à vontade para entrar em contato:
+:sparkles: Fique à vontade para entrar em contato:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant2/)](https://www.linkedin.com/in/leonardosant2/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leonardo201220@gmail.com)](mailto:leonardo201220@gmail.com)
