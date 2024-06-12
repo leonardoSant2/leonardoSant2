@@ -1,31 +1,63 @@
-### :v: Olá! tudo bem?
-## Bem vindo ao meu perfil GitHub 
+### :v: Hey there! How’s it going?
+## Welcome to my GitHub profile 
 
-👋 Eu me chamo Leonardo e tenho 32 anos. Atuo como técnico de informática fazendo manutenção de computadores e impressoras.
+👋 I’m Leonardo, a 32-year-old tech whiz. I work as an IT technician, fixing up computers and printers.
 
-🌎 Brasileiro, natural do Rio de Janeiro. Atualmente moro no interior de Pernambuco.
+🌎 Born and bred in Rio de Janeiro, Brazil. Now, I’ve set up camp in the countryside of Pernambuco.
 
-💻 Atualmente estou me dedicando em aprender tudo que envolve JavaScript como Node.Js, Vue, React, Angular, Express e outras técnologias com o propósito de me tornar um programador Full Stack.
+💻 I’m currently all in on learning everything about JavaScript, diving into Node.js, Vue, React, Angular, Express, and other cool tech with the goal of becoming a Full Stack developer.
 
-👀 Tenho curiosidade e interesse em tudo que envolve técnologia e mistérios da humindade.
+👀 I’m super curious and always keen to explore all things tech and the mysteries of humanity.
 
-:computer: Essas são as tecnologias e ferramentas que eu tenho conhecimento no momento:
+:computer:  Here are the technologies and tools I’m skilled with at the moment:
 
-![icon](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![icon](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![icon](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![icon](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![icon](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-![icon](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
-![icon](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![icon](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![icon](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![icon](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![icon](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![icon](https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
-![icon](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<h3>Languages</h3>
+
 ![icon](https://img.shields.io/badge/php%20-AEB2D5?style=for-the-badge&logo=php&logoColor=white)
+![icon](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<h3>Frameworks</h3>
+
+![icon](https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
+![icon](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![icon](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+
+<h3>Libs and utils</h3>
+
+![icon](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+<h3>Styling</h3>
+
+![icon](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![icon](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+<h3>Database | Deployment</h3>
+
+![icon](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![icon](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h3>Tools</h3>
+
+![icon](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![icon](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
+![icon](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h3>Others</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2> GitHub Stats </h2>
 <div align="left">
