@@ -66,7 +66,7 @@
   <img height="180em" w src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoSant2&hide_title=true&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-:sparkles: Fique à vontade para entrar em contato:
+:sparkles: Feel free to contact:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardosant2/)](https://www.linkedin.com/in/leonardosant2/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leonardo201220@gmail.com)](mailto:leonardo201220@gmail.com)
